@@ -9,6 +9,8 @@ Full Stack Engineer passionate about building scalable backend systems and moder
 - Next.js
 - Tailwind CSS
 - TypeScript
+- AngularJS
+- Jquery
 
 ### Backend
 - Node.js
@@ -16,6 +18,7 @@ Full Stack Engineer passionate about building scalable backend systems and moder
 - Prisma
 - PostgreSQL
 - Redis
+- Laravel
 
 ### Tools
 - Docker
@@ -23,6 +26,8 @@ Full Stack Engineer passionate about building scalable backend systems and moder
 - Git
 - GitHub
 - Postman
+- Datadog
+- Sentry
 
 ## ⭐ Featured Projects
 
