@@ -26,9 +26,6 @@ Full Stack Engineer passionate about building scalable backend systems and moder
 
 ## ⭐ Featured Projects
 
-### Testimonial Management System
-A full-stack testimonial platform with moderation dashboard, embeddable widget, spam detection, pagination, Docker, and PostgreSQL.
-
 ### Time Tracker
 Role-based time tracking application with projects, tasks, timers, reporting, and Prisma.
 
