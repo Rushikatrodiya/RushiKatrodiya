@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Rushi Katrodiya 👋
 
-<!--
-**Rushikatrodiya/RushiKatrodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer passionate about building scalable backend systems and modern web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+- TypeScript
+
+### Backend
+- Node.js
+- Express.js
+- Prisma
+- PostgreSQL
+- Redis
+
+### Tools
+- Docker
+- AWS EC2
+- Git
+- GitHub
+- Postman
+
+## ⭐ Featured Projects
+
+### Testimonial Management System
+A full-stack testimonial platform with moderation dashboard, embeddable widget, spam detection, pagination, Docker, and PostgreSQL.
+
+### Time Tracker
+Role-based time tracking application with projects, tasks, timers, reporting, and Prisma.
+
+### Restaurant Management System
+Restaurant ordering and management platform built using Next.js and TypeScript.
+
+## 🌐 Portfolio
+
+- Website: https://rushikatrodiya.in
+- LinkedIn: https://www.linkedin.com/in/rushi-katrodiya/
+
+---
+
+> Always learning, always building.
